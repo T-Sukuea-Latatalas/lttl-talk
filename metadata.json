@@ -1,0 +1,6 @@
+{
+  "name": "ラタタラ語 AI対話システム",
+  "description": "人工言語「ラタタラ語」の文法・語彙データをリアルタイムに反映し、日本語で返答を思考してからラタタラ語へ翻訳・対話するシステム",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
